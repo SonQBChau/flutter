@@ -42,3 +42,10 @@ https://romannurik.github.io/AndroidAssetStudio/icons-launcher.html#foreground.t
 From this clipart:
 https://openclipart.org/detail/30403/tango-go-up
 Which is public domain.
+
+
+![ss1](screenshots/stock1.png)
+![ss2](screenshots/stock2.png)
+![ss3](screenshots/stock3.png)
+![ss4](screenshots/stock4.png)
+![ss5](screenshots/stock5.png)

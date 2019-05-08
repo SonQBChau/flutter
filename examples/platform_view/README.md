@@ -10,3 +10,6 @@ On iOS we use a CocoaPods dependency to add a Material Design button, and so
 pushd ios/ ; pod install ; popd
 flutter run
 ```
+
+![ss1](screenshots/view_1.png)
+![ss2](screenshots/view_2.png)
